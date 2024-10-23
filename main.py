@@ -24,5 +24,5 @@ def convert_env_to_json(env_file_path, json_file_path):
     
     print(f"Conversion complete! JSON file saved to {json_file_path}")
 
-# Usage example
+
 convert_env_to_json('.env', 'env.json')
